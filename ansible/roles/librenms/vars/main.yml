@@ -1,0 +1,3 @@
+---
+librenms_packages:
+  - name: librenms
